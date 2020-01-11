@@ -1,4 +1,4 @@
-# Projects
+# Coding Projects
 C/ C++ (STL Library)/ QT 코딩 포트폴리오
 
 C projects - C 언어 기본 알고리즘 정리
