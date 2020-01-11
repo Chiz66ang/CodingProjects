@@ -1,7 +1,9 @@
 # CppProjects
 C/ C++ (STL Library)/ QT 코딩 포트폴리오
 
-C projects - Hello World
+C projects - C 언어 기본 알고리즘 정리
+
+             Hello World
              Preprocessor
              Operators (연산자)
              Control statment (제어문)
@@ -9,7 +11,9 @@ C projects - Hello World
              Array
              Structure
 
-C++ Projects - Hello World
+C++ Projects - C++ 언어 및 알고리즘 정리
+
+               Hello World
                Overload
                Operator Overload (연산자 오버로드)
                Recursive (재귀호출)
@@ -23,7 +27,9 @@ C++ Projects - Hello World
                File_io (파일 불러오기)
                Item_Inventory (예제)
             
-STL_Algorithm - CPP STL (소개)
+STL_Algorithm - STL을 이용한 C++ 예제
+
+                CPP STL (소개)
                 DataStructures (데이더의 구조와 알고리즘)
                 Linked List 
                 Operator_Overload2 (연산자 오버로드 복습 및 확장)
@@ -34,6 +40,7 @@ STL_Algorithm - CPP STL (소개)
                 Stack Queue (Stack Queue 비교 및 확장)
               
 QT Projects - C++ 을 이용한 그래픽 프로그래밍 연습
+              
               Animation (그림 그릴 윈도우 준비 및 간단한 에니메이션 출력)
               Ball Exercise (벽에 닿으면 튕기는 공 만들기)
               Calculator (두 숫자의 연산을 계산해주는 계산기 만들기)
