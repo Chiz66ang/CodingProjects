@@ -1,0 +1,20 @@
+1. 스크린 좌표를 이용하여 화면에 고정: 위젯
+2. 컨테이너/ verticle box/ horizontal box/ uniform grid panel
+3. Text Box/ Text
+4. Progress bar/ Image
+5. Widget Component
+6. 인스턴스 편집 가능
+7. Transform/ Visibility/ Render Opacity
+8. OnHovered/ OnUnhovered/ IsHovered
+9. Scale / 다가오는 에니메이션 / Audio/ Render Opacity/ 
+10. SetInputModeUIOnly/ SetInputModeGameOnly/ SetInputModeGameAndUI
+11. RemoveFromParent/ Create Widget/ AddtoViewport/ SetShowMouseCursor
+12. 변수인지
+13. Canvas Panel/ Anchor
+14. Anchor/ 중앙
+15. Pre Construct/ Construct/ Tick
+16. Make Brush from Texture
+17. 바인드
+18. SceneCaptureComponent2D/ RenderTarget2D
+19. SetPosition
+20. Add/ RemoveIndex/ RemoveItem
